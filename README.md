@@ -1,6 +1,8 @@
 # Server Status Script
 
 A simple Bash script to check basic system performance on macOS.
+This project is based on the [Server Stats project from roadmap.sh](https://roadmap.sh/projects/server-stats).
+
 
 ## Features
 - Show disk usage (`df -h`)
